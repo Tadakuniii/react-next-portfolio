@@ -20,10 +20,10 @@ export default function Header(){
             <nav className={styles.nav}>
                 <ul className={styles.items}>
                     <li>
-                        <Link href="/news">ニュース</Link>
+                        <Link href="/news">資格</Link>
                     </li>
                     <li>
-                        <Link href="/members">メンバー</Link>
+                        <Link href="/members">授業内成果物</Link>
                     </li>
                     <li>
                         <Link href="/contact">お問い合わせ</Link>
